@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723837595447",
+    "firebase_url": "https://dinder-8a433.firebaseio.com",
+    "project_id": "dinder-8a433",
+    "storage_bucket": "dinder-8a433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723837595447:android:c5000eb7895f38f07034b2",
+        "android_client_info": {
+          "package_name": "com.example.imagesasync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723837595447-7lb3llvenjcbp94bce6hud69ac14vpro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIhCo2i7FvYs0Ywlf2jTWzrovbzwhuWjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723837595447-7lb3llvenjcbp94bce6hud69ac14vpro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
